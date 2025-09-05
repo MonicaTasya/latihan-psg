@@ -1,0 +1,44 @@
+[
+  {
+    "cabang": "Futsal",
+    "skor": "8-10",
+    "kontingen": "FEB vs Vokasi",
+    "jadwal": "28 Nov 2024, 18.00"
+  },
+  {
+    "cabang": "Basket",
+    "skor": "12-14",
+    "kontingen": "Teknik vs FTP",
+    "jadwal": "28 Nov 2024, 19.00"
+  },
+  {
+    "cabang": "Volleyball",
+    "skor": "15-12",
+    "kontingen": "FK vs FH",
+    "jadwal": "28 Nov 2024, 20.00"
+  },
+  {
+    "cabang": "Atletik",
+    "skor": "15-12",
+    "kontingen": "FK vs FH",
+    "jadwal": "28 Nov 2024, 20.00"
+  },
+  {
+    "cabang": "Bulu Tangkis",
+    "skor": "15-12",
+    "kontingen": "FK vs FH",
+    "jadwal": "28 Nov 2024, 20.00"
+  },
+  {
+    "cabang": "Renang",
+    "skor": "15-12",
+    "kontingen": "FK vs FH",
+    "jadwal": "28 Nov 2024, 20.00"
+  },
+  {
+    "cabang": "Padel",
+    "skor": "15-12",
+    "kontingen": "FK vs FH",
+    "jadwal": "28 Nov 2024, 20.00"
+  }
+]
